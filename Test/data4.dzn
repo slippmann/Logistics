@@ -1,0 +1,10 @@
+graph_size = 3;
+start = 3;
+n_dests = 3;
+dest = [1, 2, 3];
+n_edges = 3;
+from = [1,1,2];
+to   = [2,3,3];
+cost = [-4,-2,-1];
+
+expected = -6;
